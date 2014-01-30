@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Press Me</string>
+    <string name="button2">No Press Me</string>
+    <string name="startstring">Press one of them!</string>
+    <string name="pressedb1">Yay You Pressed the Left Button</string>
+    <string name="pressedb2">Yay You Pressed the Right Button</string>
+
+</resources>
